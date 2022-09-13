@@ -1,10 +1,14 @@
 ## Olá, ola! e ai, tudo bom? me chamo Ewerton.
 
-#### E sou um dev em desenvolvimento... é, pois é....
+### E sou um dev... é, pois é....
 
-<img src="https://tenor.com/bbLYF.gif" />
+<div class="tenor-gif-embed" data-postid="15160023" data-share-method="host" data-aspect-ratio="1.77778" data-width="40%"><a href="https://tenor.com/view/monkey-developer-software-coding-debug-gif-15160023">Monkey Developer GIF</a>from <a href="https://tenor.com/search/monkey-gifs">Monkey GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
-### Bem vindo ao meu perfil GitHub 👋 senta ai, fica confortável e boa viagem.
+### mas não tema, pq no final da tudo certo
+
+<div class="tenor-gif-embed" data-postid="24491722" data-share-method="host" data-aspect-ratio="1.33333" data-width="40%"><a href="https://tenor.com/view/programador-vs-bug-gif-24491722">Programador Vs Bug GIF</a>from <a href="https://tenor.com/search/programador+vs+bug-gifs">Programador Vs Bug GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+### Enfim, bem vindo ao meu perfil GitHub 👋 senta ai, fica confortável e boa viagem.
 
 <div>
 <a href="https://github.com/ewertho">
@@ -28,7 +32,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" />
 
-### Contatos:
+### Me chama la:
 
 <div>
 
