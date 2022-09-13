@@ -1,5 +1,9 @@
 ## Olá, ola! e ai, tudo bom? me chamo Ewerton.
 
+#### E sou um dev em desenvolvimento... é, pois é....
+
+<img src="https://tenor.com/bbLYF.gif" />
+
 ### Bem vindo ao meu perfil GitHub 👋 senta ai, fica confortável e boa viagem.
 
 <div>
@@ -10,13 +14,19 @@
 
 ![Snake animation](https://github.com/ewertho/ewertho/blob/output/github-contribution-grid-snake.svg)
 
-### Ferramentas e Tecnologias
+### Ferramentas e Tecnologias já dominadas
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"width="40" height="40" />
 
-### Estou aprendendo
+### Ainda estou aprendendo
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" />
 
 ### Contatos:
 
