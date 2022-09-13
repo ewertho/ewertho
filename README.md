@@ -1,10 +1,10 @@
 ## Olá, ola! e ai, tudo bom? me chamo Ewerton.
 
-```
-Programador e aventureiro em resolver código a no mínimo uns 8 anos, louco por cafe e inimigo numero 1 das academias. Se eu puder zuar, codar e beber cafe, então certamente estou no lugar certo.
-```
+###
 
-### Enfim, bem vindo ao meu perfil GitHub 👋 senta ai, fica confortável e boa viagem.
+#### Programador e aventureiro em resolver código a no mínimo uns 8 anos, louco por cafe e inimigo numero 1 das academias. Se eu puder zuar, codar e beber cafe, então certamente estou no lugar certo.
+
+## Enfim, bem vindo ao meu perfil GitHub 👋 senta ai, fica confortável e boa viagem.
 
 <div>
 <a href="https://github.com/ewertho">
